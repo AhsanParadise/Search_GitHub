@@ -1,3 +1,5 @@
+/* Try now..... */
+
 @import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Righteous&display=swap");
 body {
   margin: 0;
@@ -84,7 +86,7 @@ h1 {
   font-family: "Pacifico", cursive;
   font-family: "Righteous", cursive;
 }
-
+/* Important part */
 @media only screen and (max-width: 1000px) {
   .img img {
     display: none;
@@ -101,3 +103,4 @@ h1 {
     font-size: 20px;
   }
 }
+/* Nice to meet you */
